@@ -40,7 +40,7 @@ The app lets users shorten long URLs, provide a custom alias, redirect to origin
 📁 Project Structure
 --------------------
 
-.
+
 ├── docker-compose.yml\
 ├── .env.example\
 ├── frontend/     # Vite-based UI\
