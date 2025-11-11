@@ -54,10 +54,11 @@ The app lets users shorten long URLs, provide a custom alias, redirect to origin
 ------------------------
 
 Rename `.env.example` → `.env` and adjust values if needed:
-
-|VITE_API_URL|http://localhost:5000/|
-|MONGODB_URI|mongodb://mongo:27017/urlShortener|
-|JWT_SECRET|your_jwt_secret|
+| Variable | Value |
+| --- | --- |
+| VITE_API_URL | http://localhost:5000/ |
+| MONGODB_URI | mongodb://mongo:27017/urlShortener |
+| JWT_SECRET | your_jwt_secret |
 
 
 >
