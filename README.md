@@ -1,5 +1,4 @@
 # URL Shortener (Full Stack - Dockerized)
-=======================================
 
 A fully containerized **URL Shortener** web application built with a **Node.js + MongoDB backend** and a **modern Vite-based frontend (React)**.\
 The app lets users shorten long URLs, provide a custom alias, redirect to original links, and manage them through an elegant UI --- all with a simple Docker setup.
