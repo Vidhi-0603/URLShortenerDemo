@@ -41,12 +41,12 @@ The app lets users shorten long URLs, provide a custom alias, redirect to origin
 📁 Project Structure
 --------------------
 
-`.
-├── docker-compose.yml
-├── .env.example
-├── frontend/     # Vite-based UI
-├── backend/      # Express + MongoDB API
-└── README.md`
+.
+├── docker-compose.yml\
+├── .env.example\
+├── frontend/     # Vite-based UI\
+├── backend/      # Express + MongoDB API\
+└── README.md
 
 * * * * *
 
@@ -55,9 +55,9 @@ The app lets users shorten long URLs, provide a custom alias, redirect to origin
 
 Rename `.env.example` → `.env` and adjust values if needed:
 
-`VITE_API_URL=http://localhost:5000/
-MONGODB_URI=mongodb://mongo:27017/urlShortener
-JWT_SECRET=your_jwt_secret`
+|VITE_API_URL|http://localhost:5000/|
+|MONGODB_URI|mongodb://mongo:27017/urlShortener|
+|JWT_SECRET|your_jwt_secret|
 
 
 >
